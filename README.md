@@ -63,6 +63,14 @@ Hệ thống bao gồm ba phần chính:
   <em>Hình 2: Giao dịch nội dung trên blockchain</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e8216a3-5427-43ed-9658-7d2382f5957d" alt="Poster NoteBlockchain" width="800"/>
+</p>
+<p align="center">
+  <em>Hình 3: Poster</em>
+</p>
+
+
 ## 📝 4. Hướng dẫn cài đặt và sử dụng
 
 ### Yêu cầu hệ thống
